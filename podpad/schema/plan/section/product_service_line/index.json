@@ -1,0 +1,9 @@
+{
+  "order": 5,
+  "desc": "Product Service Line",
+  "icon": "Digital product showcase with AR/VR elements, cloud services icons, and AI features highlighted in a modern tech style",
+  "selected": true,
+  "string": "Description of products/services emphasizing digital delivery, AI enhancements, cloud capabilities, and integration with emerging technologies",
+  "joinID": "schema-agent-editor-writer",
+  "status": "INACTIVE"
+}

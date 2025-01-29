@@ -1,0 +1,9 @@
+{
+  "order": 10,
+  "desc": "Risk Analysis",
+  "icon": "Cybersecurity and risk visualization with AI threat detection, digital assets protection, and global compliance indicators",
+  "selected": true,
+  "string": "Comprehensive risk assessment covering cybersecurity, digital compliance, AI ethics, remote workforce challenges, and global market uncertainties",
+  "joinID": "schema-agent-editor-writer",
+  "status": "INACTIVE"
+}

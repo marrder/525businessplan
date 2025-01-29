@@ -1,0 +1,9 @@
+{
+  "order": 2,
+  "desc": "Company Overview",
+  "icon": "Modern office building with glass walls, remote workers appearing as holograms in meeting spaces, tech-focused aesthetic",
+  "selected": true,
+  "string": "Detailed description of the company structure, incorporating remote-first culture, cloud infrastructure, and digital collaboration tools to support global operations",
+  "joinID": "schema-agent-editor-writer",
+  "status": "ACTIVE"
+}

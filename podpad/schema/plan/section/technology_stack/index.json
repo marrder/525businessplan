@@ -1,0 +1,9 @@
+{
+  "order": 11,
+  "desc": "Technology Stack",
+  "icon": "Modern tech stack visualization with cloud services, AI platforms, and digital tools in a connected architecture",
+  "selected": true,
+  "string": "Detailed overview of technology infrastructure including cloud platforms, AI systems, digital tools, and integration architecture",
+  "joinID": "schema-agent-editor-writer",
+  "status": "INACTIVE"
+}

@@ -1,0 +1,9 @@
+{
+  "order": 7,
+  "desc": "Marketing Strategy",
+  "icon": "Multi-channel digital marketing visualization with social media, AI analytics, and global reach indicators",
+  "selected": true,
+  "string": "Comprehensive digital marketing approach utilizing AI-driven analytics, personalization, multi-channel campaigns, and global market penetration strategies",
+  "joinID": "schema-agent-editor-writer",
+  "status": "INACTIVE"
+}

@@ -1,0 +1,9 @@
+{
+  "order": 6,
+  "desc": "Operations Plan",
+  "icon": "Smart factory or office with robots, IoT devices, and cloud computing symbols showing automated workflows",
+  "selected": true,
+  "string": "Detailed operational framework incorporating smart supply chain management, remote workforce coordination, cloud infrastructure, and AI-powered automation",
+  "joinID": "schema-agent-editor-writer",
+  "status": "INACTIVE"
+}

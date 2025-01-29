@@ -1,0 +1,9 @@
+{
+  "order": 4,
+  "desc": "Digital Strategy",
+  "icon": "Futuristic dashboard showing multiple digital channels, AI algorithms, and cloud services interconnected in a network",
+  "selected": true,
+  "string": "Comprehensive digital transformation roadmap including AI implementation, cloud migration, digital marketing channels, and automation strategies",
+  "joinID": "schema-agent-editor-writer",
+  "status": "INACTIVE"
+}

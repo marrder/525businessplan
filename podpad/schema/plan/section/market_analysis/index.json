@@ -1,0 +1,9 @@
+{
+  "order": 3,
+  "desc": "Market Analysis",
+  "icon": "3D holographic globe with data points, market trends, and AI analytics visualizations floating around it",
+  "selected": true,
+  "string": "In-depth analysis of target markets using AI-driven insights, big data analytics, and digital consumer behavior patterns across global markets",
+  "joinID": "schema-agent-editor-writer",
+  "status": "INACTIVE"
+}

@@ -1,0 +1,9 @@
+{
+  "order": 8,
+  "desc": "Team Structure",
+  "icon": "Global team collaboration showing diverse remote workers connected through digital platforms with AI assistants",
+  "selected": true,
+  "string": "Organization structure highlighting remote teams, digital collaboration tools, AI support systems, and global talent acquisition strategies",
+  "joinID": "schema-agent-editor-writer",
+  "status": "INACTIVE"
+}

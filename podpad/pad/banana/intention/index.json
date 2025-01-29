@@ -1,0 +1,140 @@
+{
+  "tags": [
+    {
+      "key": "context-location-geographic_position",
+      "value": "Property located in El Zamorano, Honduras, near Escuela Agricola Zamorano, situated in a valley with favorable agricultural climate and average annual temperature of 21°C",
+      "keywords": ["company_overview", "operations_plan"]
+    },
+    {
+      "key": "context-location-market_access",
+      "value": "Strategic position with access to Danli (45 minute drive) and Tegucigalpa (1 hour drive) markets, connected via well-maintained highway infrastructure",
+      "keywords": ["market_analysis", "operations_plan"]
+    },
+    {
+      "key": "context-property-land_distribution",
+      "value": "Total land area of 12.6 hectares, with 0.5 hectares of arable land identified for agricultural development, featuring gentle slope and good drainage characteristics",
+      "keywords": ["company_overview", "operations_plan"]
+    },
+    {
+      "key": "context-property-forest_assets",
+      "value": "Substantial mahogany forest requiring sustainable management approach and zero environmental impact policy, potential for carbon credit programs",
+      "keywords": ["sustainability_plan", "financial_projections"]
+    },
+    {
+      "key": "context-owner_profile-educational_background",
+      "value": "Masters degree in sustainable tourism",
+      "keywords": ["executive_summary", "team_structure"]
+    },
+    {
+      "key": "context-owner_profile-language_capabilities",
+      "value": "Multilingual proficiency in English, Spanish, and Italian, enabling international business relationships and market access, particularly valuable for export operations",
+      "keywords": ["team_structure", "market_analysis"]
+    },
+    {
+      "key": "context-owner_profile-project_experience",
+      "value": "Proven track record in managing and completing construction projects in the local area, with demonstrated ability to navigate local regulatory environment",
+      "keywords": ["team_structure", "risk_analysis"]
+    },
+    {
+      "key": "assets-infrastructure-water_resources",
+      "value": "16-meter water well with verified abundant supply, supporting year-round agricultural operations, with potential for expansion of irrigation systems",
+      "keywords": ["operations_plan", "sustainability_plan"]
+    },
+    {
+      "key": "assets-infrastructure-property_layout",
+      "value": "Owner's residence strategically located near agricultural operations, enabling efficient oversight and potential for future on-site processing facility",
+      "keywords": ["operations_plan", "company_overview"]
+    },
+    {
+      "key": "assets-natural_resources-existing_crops",
+      "value": "Established fruit trees including mango, lemon, tamarind, papaya, and banana, with trees ranging from 3-15 years in age, demonstrating soil fertility",
+      "keywords": ["product_service_line", "operations_plan"]
+    },
+    {
+      "key": "market-distribution-local_reach",
+      "value": "Relationships with local markets and potential for direct-to-consumer sales through weekly farmers markets in surrounding communities",
+      "keywords": ["market_analysis", "marketing_strategy"]
+    },
+    {
+      "key": "market-distribution-urban_centers",
+      "value": "Access to combined urban market of over 1.2 million consumers through Tegucigalpa and surrounding areas",
+      "keywords": ["market_analysis", "marketing_strategy"]
+    },
+    {
+      "key": "product-planned_expansion-agricultural_diversity",
+      "value": "Phased introduction of high-value crops including specialty herbs, organic vegetables, and exotic flower varieties targeting premium market segments",
+      "keywords": ["product_service_line", "financial_projections"]
+    },
+    {
+      "key": "product-planned_expansion-aquaculture_potential",
+      "value": "Feasibility study completed for tilapia farming operation with potential annual production of 5000kg using sustainable aquaponics system",
+      "keywords": [
+        "product_service_line",
+        "financial_projections",
+        "sustainability_plan"
+      ]
+    },
+    {
+      "key": "challenges-financial-capital_access",
+      "value": "Initial capital requirement with preference for phased investment approach and exploration of agricultural grants",
+      "keywords": ["financial_projections", "risk_analysis"]
+    },
+    {
+      "key": "challenges-regulatory-compliance_requirements",
+      "value": "Complex regulatory environment requiring permits from Ministry of Agriculture and local authorities, with 6-month estimated timeline for full compliance",
+      "keywords": ["risk_analysis", "operations_plan"]
+    },
+    {
+      "key": "needs-infrastructure-security_measures",
+      "value": "2.5km perimeter requiring security fencing",
+      "keywords": [
+        "operations_plan",
+        "financial_projections",
+        "technology_stack"
+      ]
+    },
+    {
+      "key": "needs-agriculture-production_inputs",
+      "value": "Initial requirement for organic certification compliant seeds, fertilizers, and soil amendments with established supplier relationships",
+      "keywords": ["operations_plan", "sustainability_plan"]
+    },
+    {
+      "key": "strategy-sustainability-environmental_management",
+      "value": "Implementation of zero-waste agriculture principles, rainwater harvesting, and renewable energy systems for operations",
+      "keywords": ["sustainability_plan", "operations_plan"]
+    },
+    {
+      "key": "strategy-technology-digital_transformation",
+      "value": "Development of integrated farm management system incorporating IoT sensors, automated irrigation, and real-time monitoring",
+      "keywords": ["technology_stack", "digital_strategy", "operations_plan"]
+    },
+    {
+      "key": "strategy-marketing-digital_presence",
+      "value": "Comprehensive digital marketing strategy including e-commerce platform, social media presence, and content marketing focusing on sustainability story",
+      "keywords": ["digital_strategy", "marketing_strategy"]
+    },
+    {
+      "key": "opportunity-institutional-academic_partnership",
+      "value": "Proposed partnership with Escuela Agricola Zamorano for research projects and student internships, with potential grant funding",
+      "keywords": [
+        "team_structure",
+        "financial_projections",
+        "sustainability_plan"
+      ]
+    },
+    {
+      "key": "opportunity-market-export_development",
+      "value": "Identified export opportunities to European organic markets with potential annual revenue of $200,000 by year three",
+      "keywords": ["market_analysis", "financial_projections", "exit_strategy"]
+    },
+    {
+      "key": "strategy-growth-expansion_planning",
+      "value": "Five-year growth strategy including vertical integration, value-added processing facility, and regional distribution network development",
+      "keywords": [
+        "executive_summary",
+        "exit_strategy",
+        "financial_projections"
+      ]
+    }
+  ]
+}
